@@ -10,20 +10,22 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Objects;
 
-import com.example.coursework.FileInterpreter.*;
+import com.example.coursework.LoggingHandler.*;
 import com.example.coursework.ProductManagment.*;
 
-public class HelloApplication extends Application {
+public class MainApplication extends Application {
+    private LoggingHandler logger;
+
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("Component.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(MainApplication.class.getResource("Component.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
         stage.setTitle("Складник");
 
         Image image = new Image(Objects.requireNonNull(getClass().getResource("/assets/icon.png")).toExternalForm());
         stage.getIcons().add(image);
 
-        LoggingHandler logger = new LoggingHandler();
+        logger = new LoggingHandler();
         List<Product> products = null;
 
         ProductManager manager = new ProductManager(logger);
@@ -41,4 +43,10 @@ public class HelloApplication extends Application {
     public static void main(String[] args) {
         launch();
     }
+
+    @Override
+    public void stop() {
+        logger.close();
+    }
+
 }

@@ -1,6 +1,6 @@
 package com.example.coursework.ProductManagment;
 
-import com.example.coursework.FileInterpreter.LoggingHandler;
+import com.example.coursework.LoggingHandler.LoggingHandler;
 
 import java.io.*;
 import java.nio.file.DirectoryStream;
@@ -27,10 +27,10 @@ public class ProductManager {
         try {
             for (Product product : products) {
                 // Calculate the number of days between dates
-                long days = ChronoUnit.DAYS.between(product.getDateOfManufacture(), product.getExpirationDate());
+                long days = ChronoUnit.DAYS.between(product.GetDateOfManufacture(), product.GetExpirationDate());
 
-                totalDaysInTypes.merge(product.getType(), (int) days, Integer::sum);
-                counts.merge(product.getType(), 1, Integer::sum);
+                totalDaysInTypes.merge(product.GetType(), (int) days, Integer::sum);
+                counts.merge(product.GetType(), 1, Integer::sum);
             }
 
             HashMap<String, Double> averageDaysInTypes = new HashMap<>();
@@ -53,7 +53,7 @@ public class ProductManager {
 
             List<Product> smallestAverageShelfLifeType = new ArrayList<>();
             for (Product product : products) {
-                if (product.getType().equals(smallestDurationType)) {
+                if (product.GetType().equals(smallestDurationType)) {
                     smallestAverageShelfLifeType.add(product);
                 }
             }
@@ -78,14 +78,14 @@ public class ProductManager {
 
             for (Product product : products) {
                 try {
-                    YearMonth productYearMonth = YearMonth.from(product.getExpirationDate());
+                    YearMonth productYearMonth = YearMonth.from(product.GetExpirationDate());
 
                     // Check if the product's expiration date falls within the target month
                     if (productYearMonth.equals(targetYearMonth)) {
                         productsExpiringInMonth.add(product);
                     }
                 } catch (DateTimeParseException e) {
-                    logger.logError("Error parsing shelf life date for product: " + product.getName() + " - " + e.getMessage());
+                    logger.logError("Error parsing shelf life date for product: " + product.GetName() + " - " + e.getMessage());
                 }
             }
 
@@ -105,8 +105,8 @@ public class ProductManager {
 
         try {
             for (Product product : products) {
-                String type = product.getType();
-                double totalValue = product.getPricePerUnit() * product.getNumberOfUnits();
+                String type = product.GetType();
+                double totalValue = product.GetPricePerUnit() * product.GetNumberOfUnits();
                 totalValueByType.put(type, totalValueByType.getOrDefault(type, 0.0) + totalValue);
             }
 
@@ -160,7 +160,7 @@ public class ProductManager {
 
         try {
             for (Product product : products) {
-                double pricePerUnit = product.getPricePerUnit();
+                double pricePerUnit = product.GetPricePerUnit();
                 if (pricePerUnit >= minPrice && pricePerUnit <= maxPrice) {
                     filteredProducts.add(product);
                 }
@@ -180,8 +180,8 @@ public class ProductManager {
             Map<String, Map<LocalDate, List<Product>>> groupedProducts = new HashMap<>();
 
             for (Product product : products) {
-                String type = product.getType();
-                LocalDate manufactureDate = product.getDateOfManufacture();
+                String type = product.GetType();
+                LocalDate manufactureDate = product.GetDateOfManufacture();
 
                 groupedProducts.putIfAbsent(type, new HashMap<>());
                 groupedProducts.get(type).putIfAbsent(manufactureDate, new ArrayList<>());
@@ -207,7 +207,7 @@ public class ProductManager {
             Map<Double, List<Product>> priceGroups = new HashMap<>();
 
             for (Product product : products) {
-                double price = product.getPricePerUnit();
+                double price = product.GetPricePerUnit();
                 priceGroups.putIfAbsent(price, new ArrayList<>());
                 priceGroups.get(price).add(product);
             }
@@ -240,7 +240,7 @@ public class ProductManager {
         try {
             if (name != null) {
                 for (Product product : products) {
-                    if (product.getName().toLowerCase().contains(name.toLowerCase())) {
+                    if (product.GetName().toLowerCase().contains(name.toLowerCase())) {
                         logger.logInfo("Product found: " + name);
                         return product;
                     }
@@ -256,10 +256,10 @@ public class ProductManager {
         try {
             if (product != null) {
                 products.remove(product);
-                logger.logInfo("Product deleted: " + product.getName());
+                logger.logInfo("Product deleted: " + product.GetName());
             }
         } catch (Exception e) {
-            logger.logError("Error deleting product: " + product.getName() + " - " + e.getMessage());
+            logger.logError("Error deleting product: " + product.GetName() + " - " + e.getMessage());
         }
     }
 
@@ -270,12 +270,12 @@ public class ProductManager {
                 int index = products.indexOf(product);
 
                 if (index != -1) {
-                    products.get(index).setName(newName);
-                    products.get(index).setType(newType);
-                    products.get(index).setNumberOfUnits(Integer.parseInt(newNumberOfUnits));
-                    products.get(index).setDateOfManufacture(LocalDate.parse(newDateOfManufacture));
-                    products.get(index).setExpirationDate(LocalDate.parse(newShelfLife));
-                    products.get(index).setPricePerUnit(Double.parseDouble(newPricePerUnite));
+                    products.get(index).SetName(newName);
+                    products.get(index).SetType(newType);
+                    products.get(index).SetNumberOfUnits(Integer.parseInt(newNumberOfUnits));
+                    products.get(index).SetDateOfManufacture(LocalDate.parse(newDateOfManufacture));
+                    products.get(index).SetExpirationDate(LocalDate.parse(newShelfLife));
+                    products.get(index).SetPricePerUnit(Double.parseDouble(newPricePerUnite));
 
                     logger.logInfo("Product updated: " + products.get(index).toString());
                 }
@@ -335,7 +335,7 @@ public class ProductManager {
                         if (fields.length == 5) { // Чекаємо 5 полів, бо тип зчитуємо з назви файлу
                             Product product = getProduct(fields, productType); // Передаємо тип з назви файлу
                             products.add(product);
-                            logger.logInfo("Successfully processed product: " + product.getName());
+                            logger.logInfo("Successfully processed product: " + product.GetName());
                         } else {
                             logger.logError("Invalid number of fields in line: " + filePath);
                         }
@@ -419,13 +419,13 @@ public class ProductManager {
         // Записуємо продукти у відповідні файли за їх типами
         for (Product product : products) {
             try {
-                String fileName = product.getType().isEmpty() ? "Продукти.txt" : product.getType() + ".txt";
+                String fileName = product.GetType().isEmpty() ? "Продукти.txt" : product.GetType() + ".txt";
                 Path filePath = Paths.get(directoryPath, fileName);
 
                 // Записуємо продукт у файл
                 writeProductToFile(filePath.toString(), product);
             } catch (Exception e) {
-                logger.logError("Error processing product: " + product.getName() + " - " + e.getMessage());
+                logger.logError("Error processing product: " + product.GetName() + " - " + e.getMessage());
             }
         }
     }
@@ -462,9 +462,9 @@ public class ProductManager {
             String line = formatProduct(product);
             bw.write(line);
             bw.newLine(); // Переходимо на новий рядок після кожного продукту
-            logger.logInfo("Product written to file: " + product.getName() + " in " + filePath);
+            logger.logInfo("Product written to file: " + product.GetName() + " in " + filePath);
         } catch (IOException e) {
-            logger.logError("Error writing to file: " + filePath + " for product: " + product.getName() + " - " + e.getMessage());
+            logger.logError("Error writing to file: " + filePath + " for product: " + product.GetName() + " - " + e.getMessage());
             e.printStackTrace();
         }
     }
@@ -474,10 +474,10 @@ public class ProductManager {
         String shelfLife;
 
         try {
-            if (product.getExpirationDate().equals(LocalDate.MAX)) {
+            if (product.GetExpirationDate().equals(LocalDate.MAX)) {
                 shelfLife = "Немає";
             } else {
-                long monthsBetween = ChronoUnit.MONTHS.between(LocalDate.now(), product.getExpirationDate());
+                long monthsBetween = ChronoUnit.MONTHS.between(LocalDate.now(), product.GetExpirationDate());
                 if (monthsBetween >= 24) {
                     shelfLife = (monthsBetween / 12) + " років";
                 } else if (monthsBetween >= 6) {
@@ -486,20 +486,20 @@ public class ProductManager {
                             monthsBetween % 10 >= 2 && monthsBetween % 10 <= 4 && monthsBetween % 100 >= 20 ? "місяці" : "місяців";
                     shelfLife = monthsBetween + " " + monthWord;
                 } else {
-                    shelfLife = product.getExpirationDate().toString();
+                    shelfLife = product.GetExpirationDate().toString();
                 }
             }
         } catch (Exception e) {
-            logger.logError("Error formatting shelf life for product: " + product.getName() + " - " + e.getMessage());
+            logger.logError("Error formatting shelf life for product: " + product.GetName() + " - " + e.getMessage());
             shelfLife = "Unknown";
         }
 
         return String.join(" | ",
-                product.getName(),
-                product.getNumberOfUnits() + " одиниць",
-                product.getDateOfManufacture().toString(),
+                product.GetName(),
+                product.GetNumberOfUnits() + " одиниць",
+                product.GetDateOfManufacture().toString(),
                 shelfLife,
-                String.format("%.2f", product.getPricePerUnit())
+                String.format("%.2f", product.GetPricePerUnit())
         );
     }
 }

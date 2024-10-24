@@ -127,7 +127,7 @@ public class Controller {
 
         // Перевіряємо, чи щось вибрано
         if (selectedProduct != null) {
-            System.out.println("Selected Product: " + selectedProduct.getName());
+            System.out.println("Selected Product: " + selectedProduct.GetName());
         } else {
             System.out.println("No product selected.");
         }
@@ -140,7 +140,7 @@ public class Controller {
             // Видаляємо вибраний продукт з таблиці
             ProductTable.getItems().remove(selectedProduct);
             manager.productDelete(products, selectedProduct);
-            System.out.println("Product deleted: " + selectedProduct.getName());
+            System.out.println("Product deleted: " + selectedProduct.GetName());
 
             // Очищуємо вибір після видалення
             selectedProduct = null;
@@ -177,23 +177,23 @@ public class Controller {
                             Product updatedProduct = dialogController.getUpdatedProduct();
 
                             // Validate fields and display specific error messages in Ukrainian
-                            if (updatedProduct.getName() == null || updatedProduct.getName().isEmpty()) {
+                            if (updatedProduct.GetName() == null || updatedProduct.GetName().isEmpty()) {
                                 showErrorDialog("Помилка поля", "Поле 'Назва продукту' не може бути порожнім.");
-                            } else if (updatedProduct.getType() == null || updatedProduct.getType().isEmpty()) {
+                            } else if (updatedProduct.GetType() == null || updatedProduct.GetType().isEmpty()) {
                                 showErrorDialog("Помилка поля", "Поле 'Тип продукту' не може бути порожнім.");
-                            } else if (updatedProduct.getNumberOfUnits() <= 0) {
+                            } else if (updatedProduct.GetNumberOfUnits() <= 0) {
                                 showErrorDialog("Помилка поля", "Кількість одиниць має бути більше нуля.");
-                            } else if (updatedProduct.getDateOfManufacture() == null) {
+                            } else if (updatedProduct.GetDateOfManufacture() == null) {
                                 showErrorDialog("Помилка поля", "Дата виробництва не може бути порожньою.");
-                            } else if (updatedProduct.getExpirationDate() == null) {
+                            } else if (updatedProduct.GetExpirationDate() == null) {
                                 showErrorDialog("Помилка поля", "Дата закінчення терміну придатності не може бути порожньою.");
-                            } else if (updatedProduct.getPricePerUnit() <= 0) {
+                            } else if (updatedProduct.GetPricePerUnit() <= 0) {
                                 showErrorDialog("Помилка поля", "Ціна за одиницю повинна бути більше нуля.");
                             } else {
                                 // If all fields are valid, proceed with updating the product
-                                manager.productEdit(products, selectedProduct, updatedProduct.getName(), updatedProduct.getType(),
-                                        String.valueOf(updatedProduct.getNumberOfUnits()), updatedProduct.getDateOfManufacture().toString(),
-                                        updatedProduct.getExpirationDate().toString(), String.valueOf(updatedProduct.getPricePerUnit()));
+                                manager.productEdit(products, selectedProduct, updatedProduct.GetName(), updatedProduct.GetType(),
+                                        String.valueOf(updatedProduct.GetNumberOfUnits()), updatedProduct.GetDateOfManufacture().toString(),
+                                        updatedProduct.GetExpirationDate().toString(), String.valueOf(updatedProduct.GetPricePerUnit()));
 
                                 ProductTable.refresh(); // Refresh the table with updated data
                                 return ButtonType.OK;
@@ -421,7 +421,7 @@ public class Controller {
             if (!group.isEmpty()) {
                 // Add a label for the group
                 Product groupLabelProduct = new Product("Згруповані продукти:", "Розмір групи ->",
-                        group.size(), null, null, group.getFirst().getPricePerUnit());
+                        group.size(), null, null, group.getFirst().GetPricePerUnit());
                 ProductTable.getItems().add(groupLabelProduct);
 
                 // Add each product in the group
@@ -476,8 +476,8 @@ public class Controller {
         ProductTable.refresh();
     }
     private @NotNull Product getHeaderProduct(List<Product> group) {
-        String type = group.getFirst().getType(); // Assuming all products in the group have the same type
-        LocalDate manufactureDate = group.getFirst().getDateOfManufacture(); // Assuming all products have the same manufacture date
+        String type = group.getFirst().GetType(); // Assuming all products in the group have the same type
+        LocalDate manufactureDate = group.getFirst().GetDateOfManufacture(); // Assuming all products have the same manufacture date
 
         // Add a header to indicate the type and manufacture date
         return new Product(

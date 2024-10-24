@@ -1,18 +1,13 @@
 package com.example.coursework.ProductManagment;
 
-import com.example.coursework.FileInterpreter.LoggingHandler;
-import java.io.*;
-import java.nio.file.*;
+import com.example.coursework.LoggingHandler.LoggingHandler;
+
 import java.time.LocalDate;
-import java.time.format.DateTimeParseException;
-import java.util.ArrayList;
-import java.util.List;
-import java.time.temporal.ChronoUnit;
 
 //Name | Type | Number of units | Date of manufacture | Shelf life | Price per unit
 public class Product {
-    private String Name;
-    private String Type;
+    private String name;
+    private String type;
     private int numberOfUnits;
     private LocalDate dateOfManufacture;
     private LocalDate expirationDate;
@@ -27,8 +22,8 @@ public class Product {
     public Product(String Name, String Type, int numberOfUnits, String dateOfManufacture, String expirationDate,
                    double pricePerUnit, LoggingHandler logger) {
         this.logger = logger;
-        this.Name = Name;
-        this.Type = Type;
+        this.name = Name;
+        this.type = Type;
         this.numberOfUnits = numberOfUnits;
         if (dateOfManufacture == null) {
             this.dateOfManufacture = LocalDate.MIN;
@@ -49,8 +44,8 @@ public class Product {
         if (logger == null) {
             this.logger = new LoggingHandler();
         }
-        this.Name = Name;
-        this.Type = Type;
+        this.name = Name;
+        this.type = Type;
         this.numberOfUnits = numberOfUnits;
         if (dateOfManufacture == null) {
             this.dateOfManufacture = LocalDate.MIN;
@@ -68,8 +63,8 @@ public class Product {
 
     public Product(Product other, LoggingHandler logger) {
         this.logger = logger;
-        this.Name = other.Name;
-        this.Type = other.Type;
+        this.name = other.name;
+        this.type = other.type;
         this.numberOfUnits = other.numberOfUnits;
         this.dateOfManufacture = other.dateOfManufacture;
         this.expirationDate = other.expirationDate;
@@ -78,59 +73,59 @@ public class Product {
 
     public Product() {
         this.logger = new LoggingHandler();
-        Name = "Продукт";
-        Type = "Тип";
+        name = "Продукт";
+        type = "Тип";
         numberOfUnits = 0;
         dateOfManufacture = LocalDate.MIN;
         expirationDate = LocalDate.MIN;
         pricePerUnit = 0;
     }
 
-    public String getName() {
-        return Name;
+    public String GetName() {
+        return name;
     }
 
-    public String getType() {
-        return Type;
+    public String GetType() {
+        return type;
     }
 
-    public int getNumberOfUnits() {
+    public int GetNumberOfUnits() {
         return numberOfUnits;
     }
 
-    public LocalDate getDateOfManufacture() {
+    public LocalDate GetDateOfManufacture() {
         return dateOfManufacture;
     }
 
-    public LocalDate getExpirationDate() {
+    public LocalDate GetExpirationDate() {
         return expirationDate;
     }
 
-    public Double getPricePerUnit() {
+    public Double GetPricePerUnit() {
         return pricePerUnit;
     }
 
-    public void setName(String Name) {
-        this.Name = Name;
+    public void SetName(String Name) {
+        this.name = Name;
     }
 
-    public void setType(String Type) {
-        this.Type = Type;
+    public void SetType(String Type) {
+        this.type = Type;
     }
 
-    public void setNumberOfUnits(int numberOfUnits) {
+    public void SetNumberOfUnits(int numberOfUnits) {
         this.numberOfUnits = numberOfUnits;
     }
 
-    public void setDateOfManufacture(LocalDate dateOfManufacture) {
+    public void SetDateOfManufacture(LocalDate dateOfManufacture) {
         this.dateOfManufacture = LocalDate.parse(dateOfManufacture.toString());
     }
 
-    public void setExpirationDate(LocalDate shelfLife) {
+    public void SetExpirationDate(LocalDate shelfLife) {
         this.expirationDate = LocalDate.parse(shelfLife.toString());
     }
 
-    public void setPricePerUnit(Double pricePerUnit) {
+    public void SetPricePerUnit(Double pricePerUnit) {
         this.pricePerUnit = pricePerUnit;
     }
 
@@ -138,10 +133,10 @@ public class Product {
     public String toString() {
         if (expirationDate == LocalDate.MAX) {
             String expirationDateMax = "Немає";
-            return "Продукт: " + Name + " | Тип: " + Type + " | Кількість: " + numberOfUnits + " | Дата виготовлення: " +
+            return "Продукт: " + name + " | Тип: " + type + " | Кількість: " + numberOfUnits + " | Дата виготовлення: " +
                     dateOfManufacture.toString() + " | Термін зберігання: " + expirationDateMax + " | Ціна: " + pricePerUnit;
         }
-        return "Продукт: " + Name + " | Тип: " + Type + " | Кількість: " + numberOfUnits + " | Дата виготовлення: " +
+        return "Продукт: " + name + " | Тип: " + type + " | Кількість: " + numberOfUnits + " | Дата виготовлення: " +
                 dateOfManufacture.toString() + " | Термін зберігання: " + expirationDate.toString() + " | Ціна: " + pricePerUnit;
     }
 

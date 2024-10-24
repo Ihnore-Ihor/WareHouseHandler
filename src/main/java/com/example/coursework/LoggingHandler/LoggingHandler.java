@@ -1,4 +1,4 @@
-package com.example.coursework.FileInterpreter;
+package com.example.coursework.LoggingHandler;
 
 import java.io.*;
 import java.time.LocalDate;
@@ -65,10 +65,6 @@ public class LoggingHandler {
 
     public void logError(String errorMessage) {
         logMessage(errorMessage, "ERROR");
-    }
-
-    public void logWarning(String warningMessage) {
-        logMessage(warningMessage, "WARNING");
     }
 
     public void logInfo(String infoMessage) {

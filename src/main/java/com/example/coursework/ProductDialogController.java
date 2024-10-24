@@ -37,12 +37,12 @@ public class ProductDialogController {
     // Метод для ініціалізації продукту в діалозі
     public void setProduct(Product product) {
         this.selectedProduct = product;
-        productNameInput.setText(product.getName());
-        productTypeInput.setText(product.getType());
-        productUnitsInput.setText(String.valueOf(product.getNumberOfUnits()));
-        productDateInput.setValue(product.getDateOfManufacture());
-        productExpirationInput.setValue(product.getExpirationDate());
-        productPriceInput.setText(String.valueOf(product.getPricePerUnit()));
+        productNameInput.setText(product.GetName());
+        productTypeInput.setText(product.GetType());
+        productUnitsInput.setText(String.valueOf(product.GetNumberOfUnits()));
+        productDateInput.setValue(product.GetDateOfManufacture());
+        productExpirationInput.setValue(product.GetExpirationDate());
+        productPriceInput.setText(String.valueOf(product.GetPricePerUnit()));
     }
 
     // Метод для повернення оновленого продукту після натискання ОК

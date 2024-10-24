@@ -17,5 +17,5 @@ module com.example.coursework {
     opens com.example.coursework.ProductManagment to javafx.base;  // для доступу до класів продуктів
 
     exports com.example.coursework;
-    exports com.example.coursework.FileInterpreter;
+    exports com.example.coursework.LoggingHandler;
 }
