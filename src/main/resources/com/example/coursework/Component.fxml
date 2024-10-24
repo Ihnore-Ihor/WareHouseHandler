@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonType?>
+<?import javafx.scene.control.DialogPane?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1000.0" prefWidth="1638.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.coursework.Controller">
+   <children>
+      <VBox layoutX="1172.0" layoutY="4.0" prefHeight="152.0" prefWidth="413.0">
+         <children>
+            <HBox prefHeight="68.0" prefWidth="413.0">
+               <children>
+                  <Button mnemonicParsing="false" onMouseClicked="#AddProduct" prefHeight="100.0" prefWidth="186.0" text="Додати продукт" wrapText="true">
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#DeleteProduct" prefHeight="100.0" prefWidth="191.0" text="Видалити продукт" wrapText="true">
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#EditProduct" prefHeight="161.0" prefWidth="177.0" text="Редагувати продукт" wrapText="true">
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <TextField fx:id="searchProductInput" prefHeight="52.0" prefWidth="413.0" promptText="Пошук продукту">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </TextField>
+            <Button mnemonicParsing="false" onMouseClicked="#SearchProduct" prefHeight="26.0" prefWidth="454.0" text="Шукати">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+         </children>
+      </VBox>
+      <GridPane layoutX="1158.0" layoutY="334.0" prefHeight="260.0" prefWidth="386.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button mnemonicParsing="false" onMouseClicked="#TypeSmallestShelfLife" prefHeight="126.0" prefWidth="229.0" text="Відобразити тип товару з найменшим середнім терміном зберігання" wrapText="true">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" onMouseClicked="#ValueByType" prefHeight="155.0" prefWidth="261.0" text="Відобразити сумарну вартість товарів по типам, відсортувати типи товарів по сумарній вартості" wrapText="true" GridPane.columnIndex="1" />
+            <Button mnemonicParsing="false" onMouseClicked="#SameManufactureDateForTypes" prefHeight="156.0" prefWidth="218.0" text="Відобразити товари з однаковою датою виготовлення окремо для кожного типу" wrapText="true" GridPane.rowIndex="1" />
+            <Button mnemonicParsing="false" onMouseClicked="#GroupWithSamePrice" prefHeight="138.0" prefWidth="221.0" text="Згрупувати товари з однаковими цінами" wrapText="true" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" onMouseClicked="#ExpireInputtedMonth" prefHeight="137.0" prefWidth="242.0" text="Показати товари, термін придатності яких виходить у заданому місяці" wrapText="true" GridPane.rowIndex="2">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" onMouseClicked="#ShowInPriceRange" prefHeight="215.0" prefWidth="272.0" text="Вивести список товарів у визначеному діапазоні ціни за одиницю" wrapText="true" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Button>
+         </children>
+      </GridPane>
+      <TextField fx:id="monthInput" layoutX="1172.0" layoutY="600.0" prefHeight="36.0" prefWidth="156.0" promptText="Задати місяць">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="minPriceInput" layoutX="1339.0" layoutY="599.0" prefHeight="36.0" prefWidth="96.0" promptText="Мін. ціна">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="maxPriceInput" layoutX="1453.0" layoutY="599.0" prefHeight="36.0" prefWidth="96.0" promptText="Макс. ціна">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </TextField>
+      <Text layoutX="1439.0" layoutY="621.0" strokeType="OUTSIDE" strokeWidth="0.0" text="–">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <HBox layoutX="1251.0" layoutY="694.0" prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Button mnemonicParsing="false" onMouseClicked="#ReadFromFile" prefHeight="100.0" prefWidth="111.0" text="Зчитати файли" wrapText="true">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" onMouseClicked="#WriteToFile" prefHeight="172.0" prefWidth="113.0" text="Записати у файли" wrapText="true">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+         </children>
+      </HBox>
+      <ScrollPane layoutX="58.0" layoutY="56.0" prefHeight="898.0" prefWidth="1080.0">
+         <content>
+            <TableView fx:id="ProductTable" onMouseClicked="#RowSelectedProducts" prefHeight="896.0" prefWidth="1079.0">
+              <columns>
+                <TableColumn fx:id="TableProductName" prefWidth="274.09922790527344" text="Імʼя" />
+                <TableColumn fx:id="TableProductType" minWidth="0.0" prefWidth="148.90071868896484" text="Тип" />
+                  <TableColumn fx:id="TableProductNumberOfUnits" prefWidth="108.60311889648438" text="К-сть одиниць" />
+                  <TableColumn fx:id="TableProductDateOfManufacture" prefWidth="177.86679077148438" text="Дата виготовлення" />
+                  <TableColumn fx:id="TableProductExpirationDate" prefWidth="195.15786743164062" text="Термін зберігання" />
+                  <TableColumn fx:id="TableProductPricePerUnit" prefWidth="137.65411376953125" text="Ціна за одиницю" />
+              </columns>
+            </TableView>
+         </content>
+      </ScrollPane>
+      <DialogPane fx:id="productDialog" visible="false">
+         <content>
+            <AnchorPane prefHeight="400.0" prefWidth="400.0">
+               <children>
+                  <Text layoutX="10.0" layoutY="10.0" text="Імʼя продукту:" />
+                  <TextField fx:id="productNameInput" layoutX="150.0" layoutY="10.0" prefWidth="200.0" />
+
+                  <Text layoutX="10.0" layoutY="60.0" text="Тип продукту:" />
+                  <TextField fx:id="productTypeInput" layoutX="150.0" layoutY="60.0" prefWidth="200.0" />
+
+                  <Text layoutX="10.0" layoutY="110.0" text="Кількість одиниць:" />
+                  <TextField fx:id="productUnitsInput" layoutX="150.0" layoutY="110.0" prefWidth="200.0" />
+
+                  <Text layoutX="10.0" layoutY="160.0" text="Дата виготовлення:" />
+                  <TextField fx:id="productDateInput" layoutX="150.0" layoutY="160.0" prefWidth="200.0" />
+
+                  <Text layoutX="10.0" layoutY="210.0" text="Термін зберігання:" />
+                  <TextField fx:id="productExpirationInput" layoutX="150.0" layoutY="210.0" prefWidth="200.0" />
+
+                  <Text layoutX="10.0" layoutY="260.0" text="Ціна за одиницю:" />
+                  <TextField fx:id="productPriceInput" layoutX="150.0" layoutY="260.0" prefWidth="200.0" />
+               </children>
+            </AnchorPane>
+         </content>
+         <buttonTypes>
+            <ButtonType fx:id="okButton" text="ОК" />
+            <ButtonType fx:id="cancelButton" text="Скасувати" />
+         </buttonTypes>
+      </DialogPane>
+      <Button layoutX="1208.0" layoutY="229.0" mnemonicParsing="false" onMouseClicked="#PrintAllProducts" prefHeight="37.0" prefWidth="249.0" text="Показати список продуктів">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

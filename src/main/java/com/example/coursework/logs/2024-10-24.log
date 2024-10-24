@@ -1,0 +1,1008 @@
+[00:00:28] [INFO] Program started ❄️
+[00:00:31] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:00:31] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:00:31] [INFO] Successfully processed product: Сосиски Артемівські
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:00:31] [INFO] Successfully processed product: Colgate Зубна паста
+[00:00:31] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:00:31] [INFO] Successfully processed product: Гель для душу Dove
+[00:00:31] [INFO] Successfully processed product: Підгузки Pampers
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:00:31] [INFO] Successfully processed product: Активіа Йогурт
+[00:00:31] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:00:31] [INFO] Successfully processed product: Рушник махровий
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:00:31] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:00:31] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:00:31] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:00:31] [INFO] Successfully processed product: Чіпси Lay’s
+[00:00:31] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:00:31] [INFO] Successfully processed product: Губки для миття посуду
+[00:00:31] [INFO] Successfully processed product: Рукавички гумові
+[00:00:31] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:00:31] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:00:31] [INFO] Successfully processed product: Олівці Bic
+[00:00:31] [INFO] Successfully processed product: Папір офісний A4
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:00:31] [INFO] Successfully processed product: Пилосос Philips
+[00:00:31] [INFO] Successfully processed product: Мийка Karcher
+[00:00:31] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:00:31] [INFO] Successfully processed product: Nivea Крем
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:00:31] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:00:31] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:00:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:03:15] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:03:15] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:03:15] [INFO] Successfully processed product: Сосиски Артемівські
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:03:15] [INFO] Successfully processed product: Colgate Зубна паста
+[00:03:15] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:03:15] [INFO] Successfully processed product: Гель для душу Dove
+[00:03:15] [INFO] Successfully processed product: Підгузки Pampers
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:03:15] [INFO] Successfully processed product: Активіа Йогурт
+[00:03:15] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:03:15] [INFO] Successfully processed product: Рушник махровий
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:03:15] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:03:15] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:03:15] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:03:15] [INFO] Successfully processed product: Чіпси Lay’s
+[00:03:15] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:03:15] [INFO] Successfully processed product: Губки для миття посуду
+[00:03:15] [INFO] Successfully processed product: Рукавички гумові
+[00:03:15] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:03:15] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:03:15] [INFO] Successfully processed product: Олівці Bic
+[00:03:15] [INFO] Successfully processed product: Папір офісний A4
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:03:15] [INFO] Successfully processed product: Пилосос Philips
+[00:03:15] [INFO] Successfully processed product: Мийка Karcher
+[00:03:15] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:03:15] [INFO] Successfully processed product: Nivea Крем
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:03:15] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:03:15] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:03:15] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:04:55] [INFO] Program started ❄️
+[00:04:57] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:04:57] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:04:57] [INFO] Successfully processed product: Сосиски Артемівські
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:04:57] [INFO] Successfully processed product: Colgate Зубна паста
+[00:04:57] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:04:57] [INFO] Successfully processed product: Гель для душу Dove
+[00:04:57] [INFO] Successfully processed product: Підгузки Pampers
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:04:57] [INFO] Successfully processed product: Активіа Йогурт
+[00:04:57] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:04:57] [INFO] Successfully processed product: Рушник махровий
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:04:57] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:04:57] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:04:57] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:04:57] [INFO] Successfully processed product: Чіпси Lay’s
+[00:04:57] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:04:57] [INFO] Successfully processed product: Губки для миття посуду
+[00:04:57] [INFO] Successfully processed product: Рукавички гумові
+[00:04:57] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:04:57] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:04:57] [INFO] Successfully processed product: Олівці Bic
+[00:04:57] [INFO] Successfully processed product: Папір офісний A4
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:04:57] [INFO] Successfully processed product: Пилосос Philips
+[00:04:57] [INFO] Successfully processed product: Мийка Karcher
+[00:04:57] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:04:57] [INFO] Successfully processed product: Nivea Крем
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:04:57] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:04:57] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:04:57] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:06:57] [INFO] Program started ❄️
+[00:06:58] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:06:58] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:06:58] [INFO] Successfully processed product: Сосиски Артемівські
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:06:58] [INFO] Successfully processed product: Colgate Зубна паста
+[00:06:58] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:06:58] [INFO] Successfully processed product: Гель для душу Dove
+[00:06:58] [INFO] Successfully processed product: Підгузки Pampers
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:06:58] [INFO] Successfully processed product: Активіа Йогурт
+[00:06:58] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:06:58] [INFO] Successfully processed product: Рушник махровий
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:06:58] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:06:58] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:06:58] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:06:58] [INFO] Successfully processed product: Чіпси Lay’s
+[00:06:58] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:06:58] [INFO] Successfully processed product: Губки для миття посуду
+[00:06:58] [INFO] Successfully processed product: Рукавички гумові
+[00:06:58] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:06:58] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:06:58] [INFO] Successfully processed product: Олівці Bic
+[00:06:58] [INFO] Successfully processed product: Папір офісний A4
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:06:58] [INFO] Successfully processed product: Пилосос Philips
+[00:06:58] [INFO] Successfully processed product: Мийка Karcher
+[00:06:58] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:06:58] [INFO] Successfully processed product: Nivea Крем
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:06:58] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:06:58] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:06:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:12:31] [INFO] Program started ❄️
+[00:12:34] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:12:34] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:12:34] [INFO] Successfully processed product: Сосиски Артемівські
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:12:34] [INFO] Successfully processed product: Colgate Зубна паста
+[00:12:34] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:12:34] [INFO] Successfully processed product: Гель для душу Dove
+[00:12:34] [INFO] Successfully processed product: Підгузки Pampers
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:12:34] [INFO] Successfully processed product: Активіа Йогурт
+[00:12:34] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:12:34] [INFO] Successfully processed product: Рушник махровий
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:12:34] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:12:34] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:12:34] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:12:34] [INFO] Successfully processed product: Чіпси Lay’s
+[00:12:34] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:12:34] [INFO] Successfully processed product: Губки для миття посуду
+[00:12:34] [INFO] Successfully processed product: Рукавички гумові
+[00:12:34] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:12:34] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:12:34] [INFO] Successfully processed product: Олівці Bic
+[00:12:34] [INFO] Successfully processed product: Папір офісний A4
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:12:34] [INFO] Successfully processed product: Пилосос Philips
+[00:12:34] [INFO] Successfully processed product: Мийка Karcher
+[00:12:34] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:12:34] [INFO] Successfully processed product: Nivea Крем
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:12:34] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:12:34] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:12:34] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:14:55] [INFO] Program started ❄️
+[00:14:58] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:14:58] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:14:58] [INFO] Successfully processed product: Сосиски Артемівські
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:14:58] [INFO] Successfully processed product: Colgate Зубна паста
+[00:14:58] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:14:58] [INFO] Successfully processed product: Гель для душу Dove
+[00:14:58] [INFO] Successfully processed product: Підгузки Pampers
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:14:58] [INFO] Successfully processed product: Активіа Йогурт
+[00:14:58] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:14:58] [INFO] Successfully processed product: Рушник махровий
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:14:58] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:14:58] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:14:58] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:14:58] [INFO] Successfully processed product: Чіпси Lay’s
+[00:14:58] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:14:58] [INFO] Successfully processed product: Губки для миття посуду
+[00:14:58] [INFO] Successfully processed product: Рукавички гумові
+[00:14:58] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:14:58] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:14:58] [INFO] Successfully processed product: Олівці Bic
+[00:14:58] [INFO] Successfully processed product: Папір офісний A4
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:14:58] [INFO] Successfully processed product: Пилосос Philips
+[00:14:58] [INFO] Successfully processed product: Мийка Karcher
+[00:14:58] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:14:58] [INFO] Successfully processed product: Nivea Крем
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:14:58] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:14:58] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:14:58] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:15:26] [INFO] Program started ❄️
+[00:15:28] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:15:28] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:15:28] [INFO] Successfully processed product: Сосиски Артемівські
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:15:28] [INFO] Successfully processed product: Colgate Зубна паста
+[00:15:28] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:15:28] [INFO] Successfully processed product: Гель для душу Dove
+[00:15:28] [INFO] Successfully processed product: Підгузки Pampers
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:15:28] [INFO] Successfully processed product: Активіа Йогурт
+[00:15:28] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:15:28] [INFO] Successfully processed product: Рушник махровий
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:15:28] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:15:28] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:15:28] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:15:28] [INFO] Successfully processed product: Чіпси Lay’s
+[00:15:28] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:15:28] [INFO] Successfully processed product: Губки для миття посуду
+[00:15:28] [INFO] Successfully processed product: Рукавички гумові
+[00:15:28] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:15:28] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:15:28] [INFO] Successfully processed product: Олівці Bic
+[00:15:28] [INFO] Successfully processed product: Папір офісний A4
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:15:28] [INFO] Successfully processed product: Пилосос Philips
+[00:15:28] [INFO] Successfully processed product: Мийка Karcher
+[00:15:28] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:15:28] [INFO] Successfully processed product: Nivea Крем
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:15:28] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:15:28] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:15:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:16:41] [INFO] Program started ❄️
+[00:16:44] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:16:44] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:16:44] [INFO] Successfully processed product: Сосиски Артемівські
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:16:44] [INFO] Successfully processed product: Colgate Зубна паста
+[00:16:44] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:16:44] [INFO] Successfully processed product: Гель для душу Dove
+[00:16:44] [INFO] Successfully processed product: Підгузки Pampers
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:16:44] [INFO] Successfully processed product: Активіа Йогурт
+[00:16:44] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:16:44] [INFO] Successfully processed product: Рушник махровий
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:16:44] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:16:44] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:16:44] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:16:44] [INFO] Successfully processed product: Чіпси Lay’s
+[00:16:44] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:16:44] [INFO] Successfully processed product: Губки для миття посуду
+[00:16:44] [INFO] Successfully processed product: Рукавички гумові
+[00:16:44] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:16:44] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:16:44] [INFO] Successfully processed product: Олівці Bic
+[00:16:44] [INFO] Successfully processed product: Папір офісний A4
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:16:44] [INFO] Successfully processed product: Пилосос Philips
+[00:16:44] [INFO] Successfully processed product: Мийка Karcher
+[00:16:44] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:16:44] [INFO] Successfully processed product: Nivea Крем
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:16:44] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:16:44] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:16:44] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:16:53] [INFO] Products grouped by manufacture date successfully.
+[00:17:53] [INFO] Product added: Продукт: лгмлпм | Тип: ормлдм | Кількість: 777 | Дата виготовлення: 2023-03-10 | Термін зберігання: 2024-10-25 | Ціна: 9.0
+[00:17:58] [INFO] Products grouped by manufacture date successfully.
+[00:19:07] [INFO] Product added: Продукт: вкерк | Тип: Текстиль | Кількість: 99 | Дата виготовлення: 2023-09-01 | Термін зберігання: 2024-10-24 | Ціна: 8.0
+[00:19:09] [INFO] Products grouped by manufacture date successfully.
+[00:33:14] [INFO] Program started ❄️
+[00:33:16] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:33:16] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:33:16] [INFO] Successfully processed product: Сосиски Артемівські
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:33:16] [INFO] Successfully processed product: Colgate Зубна паста
+[00:33:16] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:33:16] [INFO] Successfully processed product: Гель для душу Dove
+[00:33:16] [INFO] Successfully processed product: Підгузки Pampers
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:33:16] [INFO] Successfully processed product: Активіа Йогурт
+[00:33:16] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:33:16] [INFO] Successfully processed product: Рушник махровий
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:33:16] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:33:16] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:33:16] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:33:16] [INFO] Successfully processed product: Чіпси Lay’s
+[00:33:16] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:33:16] [INFO] Successfully processed product: Губки для миття посуду
+[00:33:16] [INFO] Successfully processed product: Рукавички гумові
+[00:33:16] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:33:16] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:33:16] [INFO] Successfully processed product: Олівці Bic
+[00:33:16] [INFO] Successfully processed product: Папір офісний A4
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:33:16] [INFO] Successfully processed product: Пилосос Philips
+[00:33:16] [INFO] Successfully processed product: Мийка Karcher
+[00:33:16] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:33:16] [INFO] Successfully processed product: Nivea Крем
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:33:16] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:33:16] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:33:16] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:33:24] [INFO] Total value by type calculated successfully.
+[00:37:01] [INFO] Program started ❄️
+[00:37:07] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:37:07] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:37:07] [INFO] Successfully processed product: Сосиски Артемівські
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:37:07] [INFO] Successfully processed product: Colgate Зубна паста
+[00:37:07] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:37:07] [INFO] Successfully processed product: Гель для душу Dove
+[00:37:07] [INFO] Successfully processed product: Підгузки Pampers
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:37:07] [INFO] Successfully processed product: Активіа Йогурт
+[00:37:07] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:37:07] [INFO] Successfully processed product: Рушник махровий
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:37:07] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:37:07] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:37:07] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:37:07] [INFO] Successfully processed product: Чіпси Lay’s
+[00:37:07] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:37:07] [INFO] Successfully processed product: Губки для миття посуду
+[00:37:07] [INFO] Successfully processed product: Рукавички гумові
+[00:37:07] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:37:07] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:37:07] [INFO] Successfully processed product: Олівці Bic
+[00:37:07] [INFO] Successfully processed product: Папір офісний A4
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:37:07] [INFO] Successfully processed product: Пилосос Philips
+[00:37:07] [INFO] Successfully processed product: Мийка Karcher
+[00:37:07] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:37:07] [INFO] Successfully processed product: Nivea Крем
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:37:07] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:37:07] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:37:07] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:37:09] [INFO] Total value by type calculated successfully.
+[00:41:34] [INFO] Program started ❄️
+[00:41:39] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:41:39] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:41:39] [INFO] Successfully processed product: Сосиски Артемівські
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:41:39] [INFO] Successfully processed product: Colgate Зубна паста
+[00:41:39] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:41:39] [INFO] Successfully processed product: Гель для душу Dove
+[00:41:39] [INFO] Successfully processed product: Підгузки Pampers
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:41:39] [INFO] Successfully processed product: Активіа Йогурт
+[00:41:39] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:41:39] [INFO] Successfully processed product: Рушник махровий
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:41:39] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:41:39] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:41:39] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:41:39] [INFO] Successfully processed product: Чіпси Lay’s
+[00:41:39] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:41:39] [INFO] Successfully processed product: Губки для миття посуду
+[00:41:39] [INFO] Successfully processed product: Рукавички гумові
+[00:41:39] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:41:39] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:41:39] [INFO] Successfully processed product: Олівці Bic
+[00:41:39] [INFO] Successfully processed product: Папір офісний A4
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:41:39] [INFO] Successfully processed product: Пилосос Philips
+[00:41:39] [INFO] Successfully processed product: Мийка Karcher
+[00:41:39] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:41:39] [INFO] Successfully processed product: Nivea Крем
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:41:39] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:41:39] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:41:39] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:41:40] [INFO] Total value by type calculated successfully.
+[00:43:59] [INFO] Program started ❄️
+[00:44:01] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:44:01] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:44:01] [INFO] Successfully processed product: Сосиски Артемівські
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:44:01] [INFO] Successfully processed product: Colgate Зубна паста
+[00:44:01] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:44:01] [INFO] Successfully processed product: Гель для душу Dove
+[00:44:01] [INFO] Successfully processed product: Підгузки Pampers
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:44:01] [INFO] Successfully processed product: Активіа Йогурт
+[00:44:01] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:44:01] [INFO] Successfully processed product: Рушник махровий
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:44:01] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:44:01] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:44:01] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:44:01] [INFO] Successfully processed product: Чіпси Lay’s
+[00:44:01] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:44:01] [INFO] Successfully processed product: Губки для миття посуду
+[00:44:01] [INFO] Successfully processed product: Рукавички гумові
+[00:44:01] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:44:01] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:44:01] [INFO] Successfully processed product: Олівці Bic
+[00:44:01] [INFO] Successfully processed product: Папір офісний A4
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:44:01] [INFO] Successfully processed product: Пилосос Philips
+[00:44:01] [INFO] Successfully processed product: Мийка Karcher
+[00:44:01] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:44:01] [INFO] Successfully processed product: Nivea Крем
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:44:01] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:44:01] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:44:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:44:04] [INFO] Total value by type calculated successfully.
+[00:45:57] [INFO] Program started ❄️
+[00:46:01] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:46:01] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:46:01] [INFO] Successfully processed product: Сосиски Артемівські
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:46:01] [INFO] Successfully processed product: Colgate Зубна паста
+[00:46:01] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:46:01] [INFO] Successfully processed product: Гель для душу Dove
+[00:46:01] [INFO] Successfully processed product: Підгузки Pampers
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:46:01] [INFO] Successfully processed product: Активіа Йогурт
+[00:46:01] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:46:01] [INFO] Successfully processed product: Рушник махровий
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:46:01] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:46:01] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:46:01] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:46:01] [INFO] Successfully processed product: Чіпси Lay’s
+[00:46:01] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:46:01] [INFO] Successfully processed product: Губки для миття посуду
+[00:46:01] [INFO] Successfully processed product: Рукавички гумові
+[00:46:01] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:46:01] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:46:01] [INFO] Successfully processed product: Олівці Bic
+[00:46:01] [INFO] Successfully processed product: Папір офісний A4
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:46:01] [INFO] Successfully processed product: Пилосос Philips
+[00:46:01] [INFO] Successfully processed product: Мийка Karcher
+[00:46:01] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:46:01] [INFO] Successfully processed product: Nivea Крем
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:46:01] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:46:01] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:46:01] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:46:03] [INFO] Total value by type calculated successfully.
+[00:48:28] [INFO] Program started ❄️
+[00:48:31] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:48:31] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:48:31] [INFO] Successfully processed product: Сосиски Артемівські
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:48:31] [INFO] Successfully processed product: Colgate Зубна паста
+[00:48:31] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:48:31] [INFO] Successfully processed product: Гель для душу Dove
+[00:48:31] [INFO] Successfully processed product: Підгузки Pampers
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:48:31] [INFO] Successfully processed product: Активіа Йогурт
+[00:48:31] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:48:31] [INFO] Successfully processed product: Рушник махровий
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:48:31] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:48:31] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:48:31] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:48:31] [INFO] Successfully processed product: Чіпси Lay’s
+[00:48:31] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:48:31] [INFO] Successfully processed product: Губки для миття посуду
+[00:48:31] [INFO] Successfully processed product: Рукавички гумові
+[00:48:31] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:48:31] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:48:31] [INFO] Successfully processed product: Олівці Bic
+[00:48:31] [INFO] Successfully processed product: Папір офісний A4
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:48:31] [INFO] Successfully processed product: Пилосос Philips
+[00:48:31] [INFO] Successfully processed product: Мийка Karcher
+[00:48:31] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:48:31] [INFO] Successfully processed product: Nivea Крем
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:48:31] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:48:31] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:48:31] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:48:33] [INFO] Total value by type calculated successfully.
+[00:49:22] [INFO] Program started ❄️
+[00:49:25] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:49:25] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:49:25] [INFO] Successfully processed product: Сосиски Артемівські
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:49:25] [INFO] Successfully processed product: Colgate Зубна паста
+[00:49:25] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:49:25] [INFO] Successfully processed product: Гель для душу Dove
+[00:49:25] [INFO] Successfully processed product: Підгузки Pampers
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:49:25] [INFO] Successfully processed product: Активіа Йогурт
+[00:49:25] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:49:25] [INFO] Successfully processed product: Рушник махровий
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:49:25] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:49:25] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:49:25] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:49:25] [INFO] Successfully processed product: Чіпси Lay’s
+[00:49:25] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:49:25] [INFO] Successfully processed product: Губки для миття посуду
+[00:49:25] [INFO] Successfully processed product: Рукавички гумові
+[00:49:25] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:49:25] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:49:25] [INFO] Successfully processed product: Олівці Bic
+[00:49:25] [INFO] Successfully processed product: Папір офісний A4
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:49:25] [INFO] Successfully processed product: Пилосос Philips
+[00:49:25] [INFO] Successfully processed product: Мийка Karcher
+[00:49:25] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:49:25] [INFO] Successfully processed product: Nivea Крем
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:49:25] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:49:25] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:49:25] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:49:28] [INFO] Total value by type calculated successfully.
+[00:50:25] [INFO] Program started ❄️
+[00:50:28] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:50:28] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:50:28] [INFO] Successfully processed product: Сосиски Артемівські
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:50:28] [INFO] Successfully processed product: Colgate Зубна паста
+[00:50:28] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:50:28] [INFO] Successfully processed product: Гель для душу Dove
+[00:50:28] [INFO] Successfully processed product: Підгузки Pampers
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:50:28] [INFO] Successfully processed product: Активіа Йогурт
+[00:50:28] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:50:28] [INFO] Successfully processed product: Рушник махровий
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:50:28] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:50:28] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:50:28] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:50:28] [INFO] Successfully processed product: Чіпси Lay’s
+[00:50:28] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:50:28] [INFO] Successfully processed product: Губки для миття посуду
+[00:50:28] [INFO] Successfully processed product: Рукавички гумові
+[00:50:28] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:50:28] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:50:28] [INFO] Successfully processed product: Олівці Bic
+[00:50:28] [INFO] Successfully processed product: Папір офісний A4
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:50:28] [INFO] Successfully processed product: Пилосос Philips
+[00:50:28] [INFO] Successfully processed product: Мийка Karcher
+[00:50:28] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:50:28] [INFO] Successfully processed product: Nivea Крем
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:50:28] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:50:28] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:50:28] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:50:29] [INFO] Total value by type calculated successfully.
+[00:52:45] [INFO] Program started ❄️
+[00:52:47] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:52:47] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:52:47] [INFO] Successfully processed product: Сосиски Артемівські
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:52:47] [INFO] Successfully processed product: Colgate Зубна паста
+[00:52:47] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:52:47] [INFO] Successfully processed product: Гель для душу Dove
+[00:52:47] [INFO] Successfully processed product: Підгузки Pampers
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:52:47] [INFO] Successfully processed product: Активіа Йогурт
+[00:52:47] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:52:47] [INFO] Successfully processed product: Рушник махровий
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:52:47] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:52:47] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:52:47] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:52:47] [INFO] Successfully processed product: Чіпси Lay’s
+[00:52:47] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:52:47] [INFO] Successfully processed product: Губки для миття посуду
+[00:52:47] [INFO] Successfully processed product: Рукавички гумові
+[00:52:47] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:52:47] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:52:47] [INFO] Successfully processed product: Олівці Bic
+[00:52:47] [INFO] Successfully processed product: Папір офісний A4
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:52:47] [INFO] Successfully processed product: Пилосос Philips
+[00:52:47] [INFO] Successfully processed product: Мийка Karcher
+[00:52:47] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:52:47] [INFO] Successfully processed product: Nivea Крем
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:52:47] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:52:47] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:52:47] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:52:50] [ERROR] Error finding smallest average shelf life: Unsupported unit: Seconds
+[00:55:29] [INFO] Program started ❄️
+[00:55:32] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:55:32] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:55:32] [INFO] Successfully processed product: Сосиски Артемівські
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:55:32] [INFO] Successfully processed product: Colgate Зубна паста
+[00:55:32] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:55:32] [INFO] Successfully processed product: Гель для душу Dove
+[00:55:32] [INFO] Successfully processed product: Підгузки Pampers
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:55:32] [INFO] Successfully processed product: Активіа Йогурт
+[00:55:32] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:55:32] [INFO] Successfully processed product: Рушник махровий
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:55:32] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:55:32] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:55:32] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:55:32] [INFO] Successfully processed product: Чіпси Lay’s
+[00:55:32] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:55:32] [INFO] Successfully processed product: Губки для миття посуду
+[00:55:32] [INFO] Successfully processed product: Рукавички гумові
+[00:55:32] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:55:32] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:55:32] [INFO] Successfully processed product: Олівці Bic
+[00:55:32] [INFO] Successfully processed product: Папір офісний A4
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:55:32] [INFO] Successfully processed product: Пилосос Philips
+[00:55:32] [INFO] Successfully processed product: Мийка Karcher
+[00:55:32] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:55:32] [INFO] Successfully processed product: Nivea Крем
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:55:32] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:55:32] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:55:32] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:55:33] [INFO] Products with smallest average shelf life found.
+[00:58:12] [INFO] Program started ❄️
+[00:58:22] [ERROR] Error filtering products by price range: Cannot invoke "java.util.List.iterator()" because "products" is null
+[00:58:23] [INFO] Successfully processed product: Макарони Barilla 500г
+[00:58:23] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[00:58:23] [INFO] Successfully processed product: Сосиски Артемівські
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[00:58:23] [INFO] Successfully processed product: Colgate Зубна паста
+[00:58:23] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[00:58:23] [INFO] Successfully processed product: Гель для душу Dove
+[00:58:23] [INFO] Successfully processed product: Підгузки Pampers
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[00:58:23] [INFO] Successfully processed product: Активіа Йогурт
+[00:58:23] [INFO] Successfully processed product: Молоко Молокія 1L
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[00:58:23] [INFO] Successfully processed product: Рушник махровий
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[00:58:23] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[00:58:23] [INFO] Successfully processed product: Кава Jacobs 250г
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[00:58:23] [INFO] Successfully processed product: Порошок Tide 2кг
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[00:58:23] [INFO] Successfully processed product: Чіпси Lay’s
+[00:58:23] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[00:58:23] [INFO] Successfully processed product: Губки для миття посуду
+[00:58:23] [INFO] Successfully processed product: Рукавички гумові
+[00:58:23] [INFO] Successfully processed product: Фарба Dulux 5л
+[00:58:23] [INFO] Successfully processed product: Серветки паперові Zewa
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[00:58:23] [INFO] Successfully processed product: Олівці Bic
+[00:58:23] [INFO] Successfully processed product: Папір офісний A4
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[00:58:23] [INFO] Successfully processed product: Пилосос Philips
+[00:58:23] [INFO] Successfully processed product: Мийка Karcher
+[00:58:23] [INFO] Successfully processed product: Чайник електричний Bosch
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[00:58:23] [INFO] Successfully processed product: Nivea Крем
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[00:58:23] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[00:58:23] [INFO] Successfully processed product: Корм для котів Whiskas
+[00:58:23] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[00:58:24] [INFO] Products in price range found.
+[09:57:54] [INFO] Program started ❄️
+[09:58:11] [INFO] Successfully processed product: Макарони Barilla 500г
+[09:58:11] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[09:58:11] [INFO] Successfully processed product: Сосиски Артемівські
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[09:58:11] [INFO] Successfully processed product: Colgate Зубна паста
+[09:58:11] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[09:58:11] [INFO] Successfully processed product: Гель для душу Dove
+[09:58:11] [INFO] Successfully processed product: Підгузки Pampers
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[09:58:11] [INFO] Successfully processed product: Активіа Йогурт
+[09:58:11] [INFO] Successfully processed product: Молоко Молокія 1L
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[09:58:11] [INFO] Successfully processed product: Рушник махровий
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[09:58:11] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[09:58:11] [INFO] Successfully processed product: Кава Jacobs 250г
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[09:58:11] [INFO] Successfully processed product: Порошок Tide 2кг
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[09:58:11] [INFO] Successfully processed product: Чіпси Lay’s
+[09:58:11] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[09:58:11] [INFO] Successfully processed product: Губки для миття посуду
+[09:58:11] [INFO] Successfully processed product: Рукавички гумові
+[09:58:11] [INFO] Successfully processed product: Фарба Dulux 5л
+[09:58:11] [INFO] Successfully processed product: Серветки паперові Zewa
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[09:58:11] [INFO] Successfully processed product: Олівці Bic
+[09:58:11] [INFO] Successfully processed product: Папір офісний A4
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[09:58:11] [INFO] Successfully processed product: Пилосос Philips
+[09:58:11] [INFO] Successfully processed product: Мийка Karcher
+[09:58:11] [INFO] Successfully processed product: Чайник електричний Bosch
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[09:58:11] [INFO] Successfully processed product: Nivea Крем
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[09:58:11] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[09:58:11] [INFO] Successfully processed product: Корм для котів Whiskas
+[09:58:11] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[09:59:01] [INFO] Product found: сос
+[09:59:02] [INFO] Product found: сос
+[09:59:06] [INFO] Product found: сос
+[09:59:13] [INFO] Product deleted: Сосиски Артемівські
+[10:00:07] [INFO] Product updated: Продукт: Макарони Barilla 500г | Тип: Продукти харчування | Кількість: 300 | Дата виготовлення: 2023-11-18 | Термін зберігання: 2024-11-10 | Ціна: 200.2
+[10:00:41] [INFO] Program started ❄️
+[10:00:45] [INFO] Successfully processed product: Макарони Barilla 500г
+[10:00:45] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[10:00:45] [INFO] Successfully processed product: Сосиски Артемівські
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[10:00:45] [INFO] Successfully processed product: Colgate Зубна паста
+[10:00:45] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[10:00:45] [INFO] Successfully processed product: Гель для душу Dove
+[10:00:45] [INFO] Successfully processed product: Підгузки Pampers
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[10:00:45] [INFO] Successfully processed product: Активіа Йогурт
+[10:00:45] [INFO] Successfully processed product: Молоко Молокія 1L
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[10:00:45] [INFO] Successfully processed product: Рушник махровий
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[10:00:45] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[10:00:45] [INFO] Successfully processed product: Кава Jacobs 250г
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[10:00:45] [INFO] Successfully processed product: Порошок Tide 2кг
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[10:00:45] [INFO] Successfully processed product: Чіпси Lay’s
+[10:00:45] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[10:00:45] [INFO] Successfully processed product: Губки для миття посуду
+[10:00:45] [INFO] Successfully processed product: Рукавички гумові
+[10:00:45] [INFO] Successfully processed product: Фарба Dulux 5л
+[10:00:45] [INFO] Successfully processed product: Серветки паперові Zewa
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[10:00:45] [INFO] Successfully processed product: Олівці Bic
+[10:00:45] [INFO] Successfully processed product: Папір офісний A4
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[10:00:45] [INFO] Successfully processed product: Пилосос Philips
+[10:00:45] [INFO] Successfully processed product: Мийка Karcher
+[10:00:45] [INFO] Successfully processed product: Чайник електричний Bosch
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[10:00:45] [INFO] Successfully processed product: Nivea Крем
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[10:00:45] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[10:00:45] [INFO] Successfully processed product: Корм для котів Whiskas
+[10:00:45] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[10:00:57] [INFO] Product updated: Продукт: Сосиски Артемівські | Тип: Продукти харчування | Кількість: 100 | Дата виготовлення: 2023-12-01 | Термін зберігання: 2024-01-01 | Ціна: 20000.0
+[10:01:31] [INFO] Total value by type calculated successfully.
+[10:01:45] [INFO] Total value by type calculated successfully.
+[10:01:53] [INFO] Products grouped by manufacture date successfully.
+[10:02:09] [INFO] Products grouped by manufacture date successfully.
+[10:02:09] [INFO] Products grouped by manufacture date successfully.
+[10:02:09] [INFO] Products grouped by manufacture date successfully.
+[10:04:24] [INFO] Product added: Продукт: Сос | Тип: Текстиль | Кількість: 5 | Дата виготовлення: 2023-09-01 | Термін зберігання: 2024-10-31 | Ціна: 1000.0
+[10:04:26] [INFO] Products grouped by manufacture date successfully.
+[10:04:46] [INFO] Products grouped by price successfully.
+[10:05:35] [INFO] Products expiring in the month OCTOBER of 2024 found.
+[10:05:49] [INFO] Products in price range found.
+[10:06:12] [INFO] Product deleted: Кетчуп Heinz 1кг
+[10:06:17] [INFO] Total value by type calculated successfully.
+[10:13:51] [INFO] Program started ❄️
+[10:16:31] [INFO] Program started ❄️
+[10:19:13] [INFO] Program started ❄️
+[10:19:18] [INFO] Successfully processed product: Макарони Barilla 500г
+[10:19:18] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[10:19:18] [INFO] Successfully processed product: Сосиски Артемівські
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[10:19:18] [INFO] Successfully processed product: Colgate Зубна паста
+[10:19:18] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[10:19:18] [INFO] Successfully processed product: Гель для душу Dove
+[10:19:18] [INFO] Successfully processed product: Підгузки Pampers
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[10:19:18] [INFO] Successfully processed product: Активіа Йогурт
+[10:19:18] [INFO] Successfully processed product: Молоко Молокія 1L
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[10:19:18] [INFO] Successfully processed product: Рушник махровий
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[10:19:18] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[10:19:18] [INFO] Successfully processed product: Кава Jacobs 250г
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[10:19:18] [INFO] Successfully processed product: Порошок Tide 2кг
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[10:19:18] [INFO] Successfully processed product: Чіпси Lay’s
+[10:19:18] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[10:19:18] [INFO] Successfully processed product: Губки для миття посуду
+[10:19:18] [INFO] Successfully processed product: Рукавички гумові
+[10:19:18] [INFO] Successfully processed product: Фарба Dulux 5л
+[10:19:18] [INFO] Successfully processed product: Серветки паперові Zewa
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[10:19:18] [INFO] Successfully processed product: Олівці Bic
+[10:19:18] [INFO] Successfully processed product: Папір офісний A4
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[10:19:18] [INFO] Successfully processed product: Пилосос Philips
+[10:19:18] [INFO] Successfully processed product: Мийка Karcher
+[10:19:18] [INFO] Successfully processed product: Чайник електричний Bosch
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[10:19:18] [INFO] Successfully processed product: Nivea Крем
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[10:19:18] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[10:19:18] [INFO] Successfully processed product: Корм для котів Whiskas
+[10:19:18] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[10:20:56] [INFO] Program started ❄️
+[10:23:10] [INFO] Program started ❄️
+[10:27:24] [INFO] Program started ❄️
+[10:30:23] [INFO] Program started ❄️
+[10:30:37] [INFO] Successfully processed product: Макарони Barilla 500г
+[10:30:37] [INFO] Successfully processed product: Кетчуп Heinz 1кг
+[10:30:37] [INFO] Successfully processed product: Сосиски Артемівські
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти харчування.txt
+[10:30:37] [INFO] Successfully processed product: Colgate Зубна паста
+[10:30:37] [INFO] Successfully processed product: Шампунь Head & Shoulders
+[10:30:37] [INFO] Successfully processed product: Гель для душу Dove
+[10:30:37] [INFO] Successfully processed product: Підгузки Pampers
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Гігієна.txt
+[10:30:37] [INFO] Successfully processed product: Активіа Йогурт
+[10:30:37] [INFO] Successfully processed product: Молоко Молокія 1L
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Молочні продукти.txt
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Електроніка.txt
+[10:30:37] [INFO] Successfully processed product: Рушник махровий
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Текстиль.txt
+[10:30:37] [INFO] Successfully processed product: Lipton Чай чорний 100г
+[10:30:37] [INFO] Successfully processed product: Кава Jacobs 250г
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Напої.txt
+[10:30:37] [INFO] Successfully processed product: Порошок Tide 2кг
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова хімія.txt
+[10:30:37] [INFO] Successfully processed product: Чіпси Lay’s
+[10:30:37] [INFO] Successfully processed product: Кукурудзяні палички Cheetos
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Закуски.txt
+[10:30:37] [INFO] Successfully processed product: Губки для миття посуду
+[10:30:37] [INFO] Successfully processed product: Рукавички гумові
+[10:30:37] [INFO] Successfully processed product: Фарба Dulux 5л
+[10:30:37] [INFO] Successfully processed product: Серветки паперові Zewa
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для дому.txt
+[10:30:37] [INFO] Successfully processed product: Олівці Bic
+[10:30:37] [INFO] Successfully processed product: Папір офісний A4
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Офісне приладдя.txt
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Продукти.txt
+[10:30:37] [INFO] Successfully processed product: Пилосос Philips
+[10:30:37] [INFO] Successfully processed product: Мийка Karcher
+[10:30:37] [INFO] Successfully processed product: Чайник електричний Bosch
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Побутова техніка.txt
+[10:30:37] [INFO] Successfully processed product: Nivea Крем
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Догляд за шкірою.txt
+[10:30:37] [INFO] Successfully processed product: Корм для собак Pedigree 3кг
+[10:30:37] [INFO] Successfully processed product: Корм для котів Whiskas
+[10:30:37] [INFO] Successfully read file: /Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db/Товари для тварин.txt
+[11:11:08] [INFO] Program started ❄️
+[11:11:32] [ERROR] Error adding product: Cannot invoke "java.util.List.add(Object)" because "products" is null

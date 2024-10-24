@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<DialogPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.coursework.ValueByTypeController">
+    <content>
+        <VBox spacing="10" alignment="CENTER">
+            <TableView fx:id="valueByTypeTable">
+                <columns>
+                    <TableColumn fx:id="typeColumn" text="Product Type" />
+                    <TableColumn fx:id="totalValueColumn" text="Total Value" />
+                </columns>
+            </TableView>
+        </VBox>
+    </content>
+</DialogPane>
