@@ -4,8 +4,6 @@ import com.example.coursework.ProductManagment.Product;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 
-import java.time.LocalDate;
-
 public class ProductDialogController {
 
     @FXML

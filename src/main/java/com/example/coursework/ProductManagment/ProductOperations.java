@@ -1,9 +1,8 @@
 package com.example.coursework.ProductManagment;
 
 import java.time.LocalDate;
-import java.util.InputMismatchException;
 import java.util.List;
-import java.util.Scanner;
+
 import com.example.coursework.FileInterpreter.LoggingHandler;
 
 public class ProductOperations {

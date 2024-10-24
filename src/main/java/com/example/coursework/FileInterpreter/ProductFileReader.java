@@ -7,7 +7,6 @@ import java.nio.file.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class ProductFileReader {
@@ -29,7 +28,6 @@ public class ProductFileReader {
                 List<Product> fileProducts = readProductsFromFile(filePath.toString(), productType);
                 products.addAll(fileProducts);
                 logger.logInfo("Successfully read file: " + filePath);
-                //logger.logInfo(products.getFirst().toString());
             }
 
         } catch (IOException e) {
