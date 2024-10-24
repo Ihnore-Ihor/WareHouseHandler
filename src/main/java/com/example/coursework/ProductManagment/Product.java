@@ -11,12 +11,12 @@ import java.time.temporal.ChronoUnit;
 
 //Name | Type | Number of units | Date of manufacture | Shelf life | Price per unit
 public class Product {
-    protected String Name;
-    protected String Type;
-    protected int numberOfUnits;
-    protected LocalDate dateOfManufacture;
-    protected LocalDate expirationDate;
-    protected double pricePerUnit;
+    private String Name;
+    private String Type;
+    private int numberOfUnits;
+    private LocalDate dateOfManufacture;
+    private LocalDate expirationDate;
+    private double pricePerUnit;
 
     private LoggingHandler logger = null;
 
