@@ -26,16 +26,13 @@ public class HelloApplication extends Application {
         LoggingHandler logger = new LoggingHandler();
         List<Product> products = null;
 
-        ProductFileReader fileReader = new ProductFileReader(logger);
-        ProductOperations operations = new ProductOperations(logger);
-        ProductFileWriter fileWriter = new ProductFileWriter(logger);
         ProductManager manager = new ProductManager(logger);
 
         // Отримуємо контролер з FXMLLoader
         Controller controller = fxmlLoader.getController();
 
         // Передаємо об'єкти контролеру
-        controller.initializeData(products, fileReader, operations, fileWriter, manager);
+        controller.initializeData(products, manager);
 
         stage.setScene(scene);
         stage.show();

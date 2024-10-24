@@ -1,9 +1,6 @@
 package com.example.coursework;
-import com.example.coursework.FileInterpreter.ProductFileReader;
-import com.example.coursework.FileInterpreter.ProductFileWriter;
 import com.example.coursework.ProductManagment.Product;
 import com.example.coursework.ProductManagment.ProductManager;
-import com.example.coursework.ProductManagment.ProductOperations;
 import javafx.beans.binding.BooleanBinding;
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
@@ -20,16 +17,10 @@ import java.util.Map;
 
 public class Controller {
     private List<Product> products;
-    private ProductFileReader fileReader;
-    private ProductOperations operations;
-    private ProductFileWriter fileWriter;
     private ProductManager manager;
 
-    public void initializeData(List<Product> products, ProductFileReader fileReader, ProductOperations operations, ProductFileWriter fileWriter, ProductManager manager) {
+    public void initializeData(List<Product> products, ProductManager manager) {
         this.products = products;
-        this.fileReader = fileReader;
-        this.operations = operations;
-        this.fileWriter = fileWriter;
         this.manager = manager;
     }
 
@@ -148,7 +139,7 @@ public class Controller {
         if (selectedProduct != null) {
             // Видаляємо вибраний продукт з таблиці
             ProductTable.getItems().remove(selectedProduct);
-            operations.productDelete(products, selectedProduct);
+            manager.productDelete(products, selectedProduct);
             System.out.println("Product deleted: " + selectedProduct.getName());
 
             // Очищуємо вибір після видалення
@@ -200,7 +191,7 @@ public class Controller {
                                 showErrorDialog("Помилка поля", "Ціна за одиницю повинна бути більше нуля.");
                             } else {
                                 // If all fields are valid, proceed with updating the product
-                                operations.productEdit(products, selectedProduct, updatedProduct.getName(), updatedProduct.getType(),
+                                manager.productEdit(products, selectedProduct, updatedProduct.getName(), updatedProduct.getType(),
                                         String.valueOf(updatedProduct.getNumberOfUnits()), updatedProduct.getDateOfManufacture().toString(),
                                         updatedProduct.getExpirationDate().toString(), String.valueOf(updatedProduct.getPricePerUnit()));
 
@@ -298,7 +289,7 @@ public class Controller {
 
                         // If validation passes, get the final Product object and add it to the list
                         Product newProduct = dialogController.getUpdatedProduct();
-                        operations.productAdd(products, newProduct);
+                        manager.productAdd(products, newProduct);
                         ProductTable.setItems(FXCollections.observableArrayList(products)); // Refresh table
                         return ButtonType.OK;
 
@@ -451,7 +442,7 @@ public class Controller {
     @FXML
     void ReadFromFile(MouseEvent event) {
         // Зчитуємо продукти з файлу
-        products = fileReader.readProductsFromDirectory("/Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db");
+        products = manager.readProductsFromDirectory("/Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db");
 
         // Очищаємо попередні дані в таблиці
         ProductTable.getItems().clear();
@@ -505,7 +496,7 @@ public class Controller {
         String searchName = searchProductInput.getText().trim();  // Get the search input
 
         // Search for the product in the list
-        Product foundProduct = operations.productSearch(products, searchName);
+        Product foundProduct = manager.productSearch(products, searchName);
 
         if (foundProduct != null) {
             // Highlight the product row in the table
@@ -514,9 +505,9 @@ public class Controller {
         } else {
             // Show an error message if the product is not found
             Alert alert = new Alert(Alert.AlertType.ERROR);
-            alert.setTitle("Product Not Found");
+            alert.setTitle("Продукт не знайдено");
             alert.setHeaderText(null);
-            alert.setContentText("No product found with the name: " + searchName);
+            alert.setContentText("Не знадено продукту з назвою: " + searchName);
             alert.showAndWait();
         }
     }
@@ -606,7 +597,7 @@ public class Controller {
 
     @FXML
     void WriteToFile(MouseEvent event) {
-        fileWriter.writeProductsToDirectory("/Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db", products);
+        manager.writeProductsToDirectory("/Users/ihnore_ihor/IntelliJIDEAProjects/CourseWork/src/main/java/com/example/coursework/db", products);
     }
 
     // Метод для активації/деактивації кнопок на основі введених даних
