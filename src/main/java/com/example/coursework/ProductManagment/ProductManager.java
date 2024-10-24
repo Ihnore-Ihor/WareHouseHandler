@@ -137,7 +137,7 @@ public class ProductManager {
             int i = start - 1;
 
             for (int j = start; j < end; j++) {
-                if (list.get(j).getValue() <= pivot.getValue()) {
+                if (list.get(j).getValue() >= pivot.getValue()) {
                     i++;
                     Collections.swap(list, i, j);
                 }
